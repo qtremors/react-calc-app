@@ -3,10 +3,8 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-.pnpm-store/
+pnpm-store/
 .env
-.DS_Store
-Thumbs.db
 
 # React
 build/
